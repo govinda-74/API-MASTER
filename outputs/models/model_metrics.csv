@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2
+Linear Regression,0.4698,0.6396,0.9997
+Random Forest,30.8092,44.5276,-0.4869
+LSTM,9.0355,13.8179,0.8568
