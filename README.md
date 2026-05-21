@@ -124,8 +124,17 @@ Charts: Candlestick, Moving Averages, RSI, Volume
 **Output:** Live-updating financial dashboard
 
 ### Phase 9 — Deployment
-Deploy to one of: Streamlit Cloud, Render, Railway, or Hugging Face Spaces.
-Connect GitHub repository and publish a public project link.
+Deployed on **Streamlit Community Cloud**.
+
+**Live app:** _(link added after first deploy)_
+
+**Run locally:**
+```
+pip install -r requirements.txt
+streamlit run dashboard/app.py
+```
+
+**Redeploy:** push to the `main` branch — Streamlit Cloud auto-rebuilds.
 
 ## Final Deliverables
 
