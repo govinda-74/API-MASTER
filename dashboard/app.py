@@ -133,7 +133,7 @@ if dff.empty:
     st.stop()
 
 # ── Header ────────────────────────────────────────────────────────────────
-st.title("SAP SE (SAP.DE) — Financial Analytics Dashboard")
+st.title("SAP SE (SAP.DE) — Financial Stockmarket Analytics Dashboard")
 caption_parts = [
     f"Market: Frankfurt / XETRA",
     f"Source: {data_label}",
